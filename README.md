@@ -13,7 +13,7 @@
 
 This is a command line app that allows you to easily generate a high quality readme.
 
-## Instalation
+## Installation
 
 To run this program clone the repo from GitHub
 You can then use the command npm i to download Inquirer

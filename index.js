@@ -22,7 +22,7 @@ const generateReadme = ({ Title, Description,  Instalation, Usage, License, Cont
 
 ${Description}
 
-## Instalation
+## Installation
 
 ${Instalation}
 
